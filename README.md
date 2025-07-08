@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Abdullah
 
-<!--
-**MuhammadAbdullah-922/MuhammadAbdullah-922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Junior Web Developer** currently working at **Corbitsoft**. I specialize in building responsive, SEO-friendly websites using modern frontend and backend technologies.
 
-Here are some ideas to get you started:
+## 💼 Current Role
+- **Junior Web Developer** at Corbitsoft Pvt Ltd  
+- Working on real-world projects using **HTML, CSS, Bootstrap, JavaScript**, and **WordPress**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript (vanilla), Responsive Design  
+- **CMS**: WordPress (including Elementor, Astra, WooCommerce)  
+- **Currently Learning**:  
+  - **React.js** for interactive UIs  
+  - **Python + Django** for backend and full-stack development  
+- **Other**: Git & GitHub, SEO fundamentals, Debugging, Hosting & Deployment
+
+## 🌱 Goals
+- Become proficient in **React.js** and **Django**  
+- Master full-stack development with a strong understanding of UI/UX (next step)  
+- Deliver scalable, clean-coded, and maintainable web solutions
+
+## 🔍 Open To
+- Collaborations on web projects  
+- Freelance or part-time frontend roles  
+- Continuous learning and improving my development journey
+
+## 📫 Let's Connect
+- 📧 Email: your.email@example.com  
+- 🌐 Portfolio: [yourwebsite.com](https://visionsoup.com)  
+- 🧑‍💻 LinkedIn / Fiverr / Upwork: [https://www.linkedin.com/in/muhammad-abdullah-37a43b28b/]
+
+---
+
+Thanks for visiting my profile!
