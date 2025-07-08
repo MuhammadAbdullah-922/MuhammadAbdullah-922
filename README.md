@@ -25,8 +25,8 @@ I'm a passionate **Junior Web Developer** currently working at **Corbitsoft**. I
 - Continuous learning and improving my development journey
 
 ## 📫 Let's Connect
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://visionsoup.com)  
+- 📧 Email: muhammadabdullah92222@gmail.com
+- 🌐 Portfolio: (https://visionsoup.com) (But currently expired). 
 - 🧑‍💻 LinkedIn / Fiverr / Upwork: [https://www.linkedin.com/in/muhammad-abdullah-37a43b28b/]
 
 ---
