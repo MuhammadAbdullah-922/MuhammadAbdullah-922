@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Abdullah
 
-I'm a passionate **Junior Web Developer** currently working at **Corbitsoft**. I specialize in building responsive, SEO-friendly websites using modern frontend and backend technologies.
+I'm a passionate **Junior Web Developer** currently working at **MJ coders Company**. I specialize in building responsive, SEO-friendly websites using modern frontend and backend technologies.
 
 ## 💼 Current Role
 - **Junior Web Developer** at MJ coders  
