@@ -3,7 +3,7 @@
 I'm a passionate **Junior Web Developer** currently working at **Corbitsoft**. I specialize in building responsive, SEO-friendly websites using modern frontend and backend technologies.
 
 ## 💼 Current Role
-- **Junior Web Developer** at Corbitsoft Pvt Ltd  
+- **Junior Web Developer** at MJ coders  
 - Working on real-world projects using **HTML, CSS, Bootstrap, JavaScript**, and **WordPress**
 
 ## 🚀 Skills
